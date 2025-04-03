@@ -20,3 +20,8 @@ def date_lower_than_today_error():
 
 def reminder_not_found_error():
     raise ValueError('Reminder not found')
+
+
+def slot_n():
+    return None
+
